@@ -4,19 +4,19 @@
  
 *💼 I'm currently searching for my first IT job.
 
-##⚡Skills :
+## ⚡Skills :
 
-📌 Java.
-📌 HTML,CSS,JavaScript -Bootstrap.
-📌 PHP.
-📌 MySQL,MySQL Workbench.
-📌 Photoshop.
-📌 Git & Gitbash
+*📌 Java.
+*📌 HTML,CSS,JavaScript -Bootstrap.
+*📌 PHP.
+*📌 MySQL,MySQL Workbench.
+*📌 Photoshop.
+*📌 Git & Gitbash
 
-##💬Find me here :
+## 💬Find me here :
 
-📫 93lucas.gb@gmail.com
-📫[LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
+*📫 93lucas.gb@gmail.com
+*📫[LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
 
 <!--
 **LucasBuela/LucasBuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

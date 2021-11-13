@@ -5,7 +5,7 @@
 ## About me 👀
 I´m Lucas from Buenos Aires, Argentina.
 * 💼 I'm currently searching for my first IT job.
-* 👯 I’m looking to collaborate on new siide projects.
+* 👯 I’m looking to collaborate on new side projects.
 
 ## ⚡Skills :
 

@@ -3,7 +3,7 @@
 # Welcome to my profile! 👋
  
 ## About me 👀
-I´m Lucas from Buenos Aires, Argentina.
+*  📍 I´m from Buenos Aires, Argentina.
 * 💼 I'm currently searching for my first IT job.
 * 👯 I’m looking to collaborate on new side projects.
 
@@ -18,8 +18,8 @@ I´m Lucas from Buenos Aires, Argentina.
 
 ### 💬Find me here :
 
-* 📫 93lucas.gb@gmail.com<br>
-* 📫[LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
+* 📧 93lucas.gb@gmail.com<br>
+* 📫 [LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
 
 <!--
 **LucasBuela/LucasBuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

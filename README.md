@@ -4,7 +4,7 @@
  
 ## About me 👀
 I´m Lucas from Buenos Aires,Argentina
-*💼 I'm currently searching for my first IT job.
+* 💼 I'm currently searching for my first IT job.
 
 ## ⚡Skills :
 

@@ -3,7 +3,7 @@
 # Welcome to my profile! 👋
  
 ## About me 👀
-I´m Lucas from Buenos Aires,Argentina
+I´m Lucas from Buenos Aires,Argentina.
 * 💼 I'm currently searching for my first IT job.
 
 ## ⚡Skills :
@@ -13,7 +13,7 @@ I´m Lucas from Buenos Aires,Argentina
 * 📌 PHP.
 * 📌 MySQL,MySQL Workbench.
 * 📌 Photoshop.
-* 📌 Git & Gitbash
+* 📌 Git & Gitbash.
 
 ### 💬Find me here :
 

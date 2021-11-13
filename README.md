@@ -1,8 +1,8 @@
-<img src="https://media3.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=790b76112f517b9b6c6633c4c6d36ff8f8dc25605217fa4c&amp;rid=giphy.gif&amp;ct=g" alt="Coding Artificial Intelligence GIF by Matthew Butler" style="width: 700px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media3.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=790b76112f517b9b6c6633c4c6d36ff8f8dc25605217fa4c&amp;rid=giphy.gif&amp;ct=g" alt="Coding Artificial Intelligence GIF by Matthew Butler" style="width: 800px; height: 500px; left: 0px; top: 0px; opacity: 0;">
 
 ## Welcome to my profile! 👋
  
-##About me 👀
+## About me 👀
 I´m Lucas from Buenos Aires,Argentina
 *💼 I'm currently searching for my first IT job.
 

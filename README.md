@@ -9,11 +9,11 @@ I´m Lucas from Buenos Aires,Argentina.
 ## ⚡Skills :
 
 * 📌 Java.
-* 📌 HTML,CSS,JavaScript -Bootstrap.
 * 📌 PHP.
-* 📌 MySQL,MySQL Workbench.
 * 📌 Photoshop.
 * 📌 Git & Gitbash.
+* 📌 MySQL, MySQL Workbench. 
+* 📌 HTML, CSS, JavaScript - Bootstrap.
 
 ### 💬Find me here :
 

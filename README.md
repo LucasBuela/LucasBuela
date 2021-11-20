@@ -11,6 +11,8 @@
 
 * 📌 Java.
 * 📌 PHP.
+* 📌 Xampp.
+* 📌 Eclipse
 * 📌 Photoshop.
 * 📌 Git & Gitbash.
 * 📌 MySQL, MySQL Workbench. 

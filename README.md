@@ -9,12 +9,11 @@
 
 ## ⚡Skills :
 
-* 📌 Java.
-* 📌 PHP.
-* 📌 Eclipse.
-* 📌 Xampp.
-* 📌 Photoshop.
+
+* 📌 PHP-Xampp.
+* 📌 Java-Eclipse.
 * 📌 Git & Gitbash.
+* 📌 Photoshop/Figma.
 * 📌 MySQL, MySQL Workbench. 
 * 📌 HTML, CSS, JavaScript - Bootstrap.
 

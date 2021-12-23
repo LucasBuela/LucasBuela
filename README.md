@@ -9,12 +9,12 @@
 
 ## ⚡Skills :
 
-
+* 📌 UX-UI concept desing.
 * 📌 PHP-Xampp.
 * 📌 Java-Eclipse.
 * 📌 Git & Gitbash.
-* 📌 Photoshop/Figma.
-* 📌 MySQL, MySQL Workbench. 
+* 📌 Photoshop-Figma.
+* 📌 MySQL, MySQL Workbench, Relational database. 
 * 📌 HTML, CSS, JavaScript - Bootstrap.
 
 ### 💬Find me here :

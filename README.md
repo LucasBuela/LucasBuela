@@ -15,8 +15,8 @@
 * 📌 Git & Gitbash.
 * 📌 Photoshop-Figma.
 * 📌 UX-UI concept desing.
-* 📌 MySQL, MySQL Workbench, Relational database. 
 * 📌 HTML, CSS, JavaScript - Bootstrap.
+* 📌 MySQL, MySQL Workbench, Relational database. 
 
 ### 💬Find me here :
 

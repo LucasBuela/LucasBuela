@@ -16,8 +16,8 @@
 * ✔️ Figma.
 * ✔️ NodeJS
 * ✔️ Photoshop.
+* ✔️ UX/UI desing.
 * ✔️ Git & Gitbash.
-* ✔️ Concepts UX/UI desing.
 * ✔️ HTML, CSS, JavaScript - Bootstrap- Vue.js.
 * ✔️ MySQL, MySQL Workbench - Relational DB.
 

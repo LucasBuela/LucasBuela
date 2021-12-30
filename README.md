@@ -10,13 +10,16 @@
 ## ⚡Skills :
 
 
-* 📌 PHP-Xampp.
-* 📌 Java-Eclipse.
-* 📌 Git & Gitbash.
-* 📌 Photoshop-Figma.
-* 📌 UX-UI concept desing.
-* 📌 HTML, CSS, JavaScript - Bootstrap.
-* 📌 MySQL, MySQL Workbench, Relational database. 
+✔️ Java.
+✔️ PHP.
+✔️ Cobol
+✔️ Figma.
+✔️ NodeJS
+✔️ Photoshop.
+✔️ Git & Gitbash.
+✔️ Concepts UX/UI desing.
+✔️ HTML, CSS, JavaScript - Bootstrap- Vue.js.
+✔️ MySQL, MySQL Workbench - Relational DB.
 
 ### 💬Find me here :
 

@@ -10,16 +10,16 @@
 ## ⚡Skills :
 
 
-✔️ Java.
-✔️ PHP.
-✔️ Cobol
-✔️ Figma.
-✔️ NodeJS
-✔️ Photoshop.
-✔️ Git & Gitbash.
-✔️ Concepts UX/UI desing.
-✔️ HTML, CSS, JavaScript - Bootstrap- Vue.js.
-✔️ MySQL, MySQL Workbench - Relational DB.
+* ✔️ Java.
+* ✔️ PHP.
+* ✔️ Cobol
+* ✔️ Figma.
+* ✔️ NodeJS
+* ✔️ Photoshop.
+* ✔️ Git & Gitbash.
+* ✔️ Concepts UX/UI desing.
+* ✔️ HTML, CSS, JavaScript - Bootstrap- Vue.js.
+* ✔️ MySQL, MySQL Workbench - Relational DB.
 
 ### 💬Find me here :
 

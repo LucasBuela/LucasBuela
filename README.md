@@ -23,8 +23,8 @@
 
 ## Find me here 📧 
 
-* 💬 93lucas.gb@gmail.com<br>
-* 📫 [LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
+* 📫 93lucas.gb@gmail.com<br>
+* 💬 [LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
 
 <!--
 **LucasBuela/LucasBuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

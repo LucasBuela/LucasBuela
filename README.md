@@ -21,9 +21,9 @@
 * ✔️ HTML, CSS, JavaScript - Bootstrap- Vue.js.
 * ✔️ MySQL, MySQL Workbench - Relational DB.
 
-## Find me here💬 
+## Find me here 📧 
 
-* 📧 93lucas.gb@gmail.com<br>
+* 💬 93lucas.gb@gmail.com<br>
 * 📫 [LinkedIn](https://www.linkedin.com/in/lucas-buela-6660b5197/) 
 
 <!--
